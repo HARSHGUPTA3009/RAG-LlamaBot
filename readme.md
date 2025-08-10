@@ -1,5 +1,9 @@
 # RAG Chatbot with LangChain, ChromaDB, and Ollama
 
+![Working](./ss1.png)
+![Working](./ss2.png)
+
+
 This project implements a Retrieval-Augmented Generation (RAG) chatbot that:
 
 - Loads a knowledge base (`knowledge.txt`),

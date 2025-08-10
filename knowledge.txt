@@ -1,3 +1,18 @@
 harsh is a legend.
 aadi is lauduu.
 prince is paytm guy.
+Harsh is building a VR headset project for interior designers.
+Aadi is laudaaa hai.
+He integrated Google OAuth using Express and Passport.js.
+He uses n8n for automations like ATS checks and sending emails.
+His frontend is on React and backend uses MongoDB with Node.js.
+He prefers using Gemini for content generation.
+I’m Harsh Gupta, a full-stack developer with strong roots in web development, software architecture, and DSA. I specialize in building scalable, performant applications with a focus on both frontend design systems and robust backend logic. My technical toolkit includes JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, and PostgreSQL. On the backend, I’ve built RESTful APIs, integrated JWT-based authentication, and deployed projects using cloud and CI/CD pipelines. I’ve also worked with GraphQL and WebSockets for real-time and structured data fetching.
+
+I’ve created full-stack MERN applications including a P2P Lending dApp using Solidity, Wagmi, Viem, and Hardhat, implementing smart contract logic and decentralized interactions. On the frontend, I’ve crafted custom UI/UX dashboards, ensuring seamless state management using Zustand or Redux. I also emphasize modern design practices with Tailwind CSS, shadcn/ui, and animation via Framer Motion.
+
+In the VR space, I’ve prototyped immersive user interfaces and handled Unity-based interactions, building lightweight, intuitive menus and workflows. I’ve also explored AI integration with GenAI tools and experimented with chat interfaces and vision-based models.
+
+Beyond development, I’ve solved over 500+ DSA problems across platforms like Leetcode, and my core CS fundamentals in OS, DBMS, OOP, and CN are solid. I also enjoy creating prompts and UI/UX flows, thinking about design from a systems-level perspective. I frequently write and optimize code for performance, maintainability, and developer experience.
+
+I'm currently focusing on product-based development, combining decentralized tech, modern UI, and real-world usability — with a goal of building tools that are fast, minimal, and impactful.
