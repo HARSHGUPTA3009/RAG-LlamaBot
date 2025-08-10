@@ -68,10 +68,10 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 
 Install dependencies:
 pip install -r requirements.txt
-
----
-
+ ```
+ 
 ### 3. Install and configure Ollama
+
 ollama list
 ollama pull llama3:latest
 
