@@ -69,18 +69,22 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 Install dependencies:
 pip install -r requirements.txt
  ```
- 
+
 ### 3. Install and configure Ollama
 
+```bash
 ollama list
 ollama pull llama3:latest
-
+ ```
 ---
 
 ### 5. Prepare knowledge
+
 Add your RAG knowledge to knowledge.txt
 
 ---
 
 ### 4. Usage
+```bash
 python rag_chat.py
+```
