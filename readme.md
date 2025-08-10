@@ -43,7 +43,7 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot that:
 - [Ollama CLI](https://ollama.com/docs/install) installed and set up on your machine.
 - Ollama models installed locally (like `llama3:latest`).
 - Basic familiarity with Python and command line.
-
+![MindMap](./ss.png)
 ---
 
 ## Setup and Installation
